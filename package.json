@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.13.4",
+    "axios-cookiejar-support": "^6.0.5",
+    "better-sqlite3": "^12.6.2",
+    "dotenv": "^17.2.4",
+    "luxon": "^3.7.2",
+    "p-limit": "^3.1.0",
+    "telegraf": "^4.16.3",
+    "tough-cookie": "^6.0.0"
+  },
+  "name": "uzrailwaysbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
