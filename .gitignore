@@ -2,3 +2,4 @@
 data.sqlite
 *.sqlitenode_modules
 node_modules/
+test-api.js

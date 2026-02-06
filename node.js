@@ -18,7 +18,7 @@ const tough = require("tough-cookie");
 const Database = require("better-sqlite3");
 const crypto = require("crypto");
 const { DateTime } = require("luxon");
-const pLimit = require("p-limit").default;
+const pLimit = require("p-limit");
 
 const BOT_TOKEN = process.env.BOT_TOKEN;
 if (!BOT_TOKEN) throw new Error("BOT_TOKEN env yo‘q");
