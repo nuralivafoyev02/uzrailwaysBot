@@ -1,6 +1,4 @@
 .env
 data.sqlite
 *.sqlitenode_modules
-.env
-*.sqlite
-data.sqlite
+node_modules/
